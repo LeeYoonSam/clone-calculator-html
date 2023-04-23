@@ -9,5 +9,4 @@ HTML + CSS + JAVASCRIPT
 
 ### [ApexCharts](./ApexCharts/)
 
-<video src="./Preview/apex-chart.mp4" controls="controls" style="max-width: 300px;">
-</video>
+![ApexCharts](/Preview/apex-chart.gif)
